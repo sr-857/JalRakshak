@@ -1,0 +1,13 @@
+src/app/api:
+analyze-satellite
+flood-risk
+generate-audio
+
+src/app/api/analyze-satellite:
+route.ts
+
+src/app/api/flood-risk:
+route.ts
+
+src/app/api/generate-audio:
+route.ts
